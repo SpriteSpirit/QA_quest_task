@@ -14,7 +14,6 @@ SELECT species_name
 FROM species
 WHERE species_amount > 1800;
 -- РОЗА
--- В ДАННЫХ НЕТ НИ ОДНОГО СЛОВА, КОТОРОЕ НАЧИНАЛОСЬ БЫ С БУКВЫ "Б"
 
 -- Вывести имя вида species.species_name, начинающегося на «п» и относящегося species.type_id = 5
 -- Результат будет соответствовать букве «о».
