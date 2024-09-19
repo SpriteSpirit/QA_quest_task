@@ -1,5 +1,6 @@
 -- ЗАДАНИЕ 1 --
 
+
 -- Вывести имя вида species.species_name с наименьшим id species.species_id
 -- Результат будет соответствовать букве «м».
 SELECT species_name
