@@ -19,7 +19,7 @@
 Только с помощью SQL-запросов можно восстановить шифр — найти соответствующие друг другу эмодзи и буквы.
 
 1. Зайти БД. Например, PostgreSQL.
-2. Выполнить команды из файла [DataBase_data.sql]([url](https://github.com/SpriteSpirit/QA_quest_task/blob/main/DataBase_data.sql)) - создание БД и заполнение таблиц информацией.
+2. Выполнить команды из файла [DataBase_data.sql](https://github.com/SpriteSpirit/QA_quest_task/blob/main/DataBase_data.sql) - создание БД и заполнение таблиц информацией.
 3. Выполнить 3 задания по 4 задачи в каждой. Описание задач указаны в файлах
 
 #### Задание 1
@@ -29,7 +29,7 @@
 -----------------------------------------
 Нужно найти эмодзи для первых четырех букв.
 ```
-[QA_Задание 1.sql]([url](https://github.com/SpriteSpirit/QA_quest_task/blob/main/QA_Задание%201.sql))
+[QA_Задание 1.sql](https://github.com/SpriteSpirit/QA_quest_task/blob/main/QA_Задание%201.sql)
 
 #### Задание 2
 ```text
@@ -38,7 +38,7 @@
 -----------------------------------------
 Находим эмодзи еще для четырех букв
 ```
-[QA_Задание 2.sql]([url](https://github.com/SpriteSpirit/QA_quest_task/blob/main/QA_Задание%202.sql))
+[QA_Задание 2.sql](https://github.com/SpriteSpirit/QA_quest_task/blob/main/QA_Задание%202.sql)
 
 #### Задание 3
 ```text
@@ -47,4 +47,4 @@
 -----------------------------------------
 Ищем последние эмодзи еще для четырех букв
 ```
-[QA_Задание 3.sql]([url](https://github.com/SpriteSpirit/QA_quest_task/blob/main/QA_Задание%203.sql))
+[QA_Задание 3.sql](https://github.com/SpriteSpirit/QA_quest_task/blob/main/QA_Задание%203.sql)
